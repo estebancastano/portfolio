@@ -2,7 +2,53 @@ import React from 'react'
 
 function AboutMe() {
     return (
-        <div>AboutMe</div>
+        <>
+            <p className='text-2xl'>
+                lorem wkoenopwneeeeeewfoejfe
+                eroierigjerogjoeirjeojojeodijcocs
+                csdovijdoivnonivodnvdnviodnfvndfonv
+            </p>
+            <p className='text-xl'>
+                lorem wkoenopwneeeeeewfoejfe
+                eroierigjerogjoeirjeojojeodijcocs
+                csdovijdoivnonivodnvdnviodnfvndfonv
+            </p>
+            <p className='text-xl'>
+                lorem wkoenopwneeeeeewfoejfe
+                eroierigjerogjoeirjeojojeodijcocs
+                csdovijdoivnonivodnvdnviodnfvndfonv
+            </p>
+            <p className='text-2xl'>
+                lorem wkoenopwneeeeeewfoejfe
+                eroierigjerogjoeirjeojojeodijcocs
+                csdovijdoivnonivodnvdnviodnfvndfonv
+            </p>
+            <p className='text-xl'>
+                lorem wkoenopwneeeeeewfoejfe
+                eroierigjerogjoeirjeojojeodijcocs
+                csdovijdoivnonivodnvdnviodnfvndfonv
+            </p>
+            <p className='text-xl'>
+                lorem wkoenopwneeeeeewfoejfe
+                eroierigjerogjoeirjeojojeodijcocs
+                csdovijdoivnonivodnvdnviodnfvndfonv
+            </p>
+            <p className='text-2xl'>
+                lorem wkoenopwneeeeeewfoejfe
+                eroierigjerogjoeirjeojojeodijcocs
+                csdovijdoivnonivodnvdnviodnfvndfonv
+            </p>
+            <p className='text-xl'>
+                lorem wkoenopwneeeeeewfoejfe
+                eroierigjerogjoeirjeojojeodijcocs
+                csdovijdoivnonivodnvdnviodnfvndfonv
+            </p>
+            <p className='text-xl'>
+                lorem wkoenopwneeeeeewfoejfe
+                eroierigjerogjoeirjeojojeodijcocs
+                csdovijdoivnonivodnvdnviodnfvndfonv
+            </p>
+        </>
     )
 }
 
