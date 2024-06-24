@@ -1,8 +1,6 @@
-import React from 'react'
-
 function ContactMe() {
     return (
-        <div>hola soy contacto</div>
+        <div id='contact'>hola soy contacto</div>
     )
 }
 
