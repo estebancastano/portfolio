@@ -1,6 +1,6 @@
 function ContactMe() {
     return (
-        <div id='contact'>hola soy contacto</div>
+        <div id='contactme'>hola soy contacto</div>
     )
 }
 
