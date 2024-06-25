@@ -1,5 +1,5 @@
-import React from 'react'
 import '../styles/AboutMe.css';
+import Profile from '../assets/profile.jpeg'
 
 function AboutMe() {
     return (
@@ -10,8 +10,14 @@ function AboutMe() {
                 </svg>
 
             </div>
-            <div>
-                <article className=' border-transparent h-40 bg-green-light'>Sobre mi</article>
+            <div className='flex text-white h-60 bg-green-light pb-6'>
+                <img src={Profile} className='flex rounded-xl ml-32 items-center'/>
+                <div className='m-10'>
+                    <h2 className='text-2xl md:text-3xl'>Sobre mi</h2>
+                    <p className='text-xl md:text-2xl'>Soy apadisohe ghergiehrgoie heirhgierhg eigheir ejkkebg  </p>
+                </div>
+
+                
             </div>
 
         </>

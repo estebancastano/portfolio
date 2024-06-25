@@ -1,4 +1,3 @@
-import React from 'react';
 import '../styles/Hero.css'
 
 const Hero = () => {
@@ -9,9 +8,11 @@ const Hero = () => {
                 <p className="text-xl md:text-2xl mb-8">
                     Desarrollador Front-End
                 </p>
-                <button className="px-6 py-3 bg-white text-blue-500 font-semibold rounded-md shadow-md hover:bg-gray-100 transition duration-300">
-                    <a href='#contact'>Contáctame</a>
-                </button>
+                <a href="#contactme">
+                    <button className="px-6 py-3 bg-white text-blue-500 font-semibold rounded-md shadow-md hover:bg-gray-100 transition duration-300">
+                        <p>Contáctame</p>
+                    </button>
+                </a>
             </div>
         </div>
     );
